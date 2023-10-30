@@ -1,0 +1,27 @@
+{
+  "ownerNumber": "62895704499229@s.whatsapp.net",
+  "pairingNumber": "62895704499229",
+  "ownerName": "NB",
+  "botName": "NASRUN BOT",
+  "packname": "NB",
+  "author": "@NASRUNBOT",
+  "pathimg": "./media/yoshino.jpg",
+  "apikey": {
+    "xcode": "sk-g9qo4y4jcujizznix "
+  },
+  "hmm": {
+    "yt": "https://youtube.com/",
+    "ig": "https://instagram.com/",
+    "linkmenu": "https://chat.whatsapp.com/KShSydBXuPBIx0eeWgl7gY"
+  },
+  "donasi": {
+	"dana": "priv",
+	"gopay": "priv"
+  },
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
